@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Booklio",
+    "slug": "booklio",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#0B0D12"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
